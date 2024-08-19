@@ -20,4 +20,4 @@ This assembler **does not check for errors** or validate the assembly code. Make
 
 ### Dependencies:
 
-- Python 3.x
+- Python 3.3
